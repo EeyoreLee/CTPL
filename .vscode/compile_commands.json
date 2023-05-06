@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/lichunyu/CTPL",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-g", "-O0", "-std=c++17", "-I.", "-o", "build/.objs/example/linux/x86_64/debug/example.cpp.o", "example.cpp"],
+  "file": "example.cpp"
+}]
